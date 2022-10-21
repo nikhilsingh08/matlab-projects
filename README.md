@@ -1,4 +1,4 @@
 # matlab-projects
-this repo contains matlab codes 
+this repo contains MATLAB codes 
 
 
